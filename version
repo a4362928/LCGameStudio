@@ -1,2 +1,3 @@
-version = 0.1.0
-url = "https://raw.github.com/a4362928/LCGameStudio/master/LCCross_0.1.0.apk"
+version=0.1.0
+appurl="https://raw.github.com/a4362928/LCGameStudio/master/LCCross_0.1.0.apk"
+end
