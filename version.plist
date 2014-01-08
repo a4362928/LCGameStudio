@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appurl</key>
+	<string>https://raw.github.com/a4362928/LCGameStudio/master/LCCross_0.1.0.apk</string>
+	<key>version</key>
+	<string>0.1.0</string>
+</dict>
+</plist>
