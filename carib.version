@@ -1,1 +1,1 @@
-{"version":"0.1.0","patches":[{"from":"0.0.0","to":"0.0.6","force":1,"zip":"patch_0.0.0-0.0.6.zip"},{"from":"0.0.6","to":"0.1.0","force":1,"zip":"patch_0.0.6-0.1.0.zip"}]}
+{"version":"0.1.0","patchesDir":"https://raw.githubusercontent.com/a4362928/LCGameStudio/master/","patches":[{"from":"0.0.0","to":"0.0.6","force":1,"zip":"patch_0.0.0-0.0.6.zip"},{"from":"0.0.6","to":"0.1.0","force":1,"zip":"patch_0.0.6-0.1.0.zip"}]}
